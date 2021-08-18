@@ -4,21 +4,21 @@
      
 # POLISH
 
-<details open>
+</details>
 <summary>Organizacja</summary>
 
 Polska Grupa Badawcza PERI-CRIT (Polish Perioperative Medicine and Critical Care Research Group) to konsorcjum zrzeszające wiodące jednostki naukowe i podmioty lecznicze prowadzące badania naukowe w zakresie medycyny okołozabiegowej oraz intensywnej terapii.
 
 </details>
 
-<details open>
+</details>
 <summary>Cel</summary>
 
 Połączenie potencjału badawczego Partnerów oraz wspólna realizacja projektów służących rozwojowi nauki i poprawie jakości opieki nad pacjentami poddawanymi zabiegom operacyjnym i/lub leczonymi na oddziałach intensywnej terapii.
 
 </details>
 
-<details open>
+</details>
 <summary>Działalność</summary>
 
 - koordynacja wspólnych projektów badawczych z wykorzystaniem doświadczenia oraz infrastruktury Partnerów
@@ -29,14 +29,14 @@ Połączenie potencjału badawczego Partnerów oraz wspólna realizacja projekt�
 
 </details>
 
-<details open>
+</details>
 <summary>Idea</summary>
 
 Działania Konsorcjum obejmują szerokie grono osób związanych z opieką okołozabiegową oraz intensywną terapią. Wysoko wykwalifikowana kadra badawcza i dydaktyczna tworząca PERI-CRIT kieruje się zasadami profesjonalizmu oraz wzajemnego szacunku. Rezultaty innowacyjnych projektów prowadzonych w ramach Konsorcjum mają szansę zmienić oblicze medycyny okołozabiegowej oraz intensywnej terapii w Polsce w nadchodzących latach.
 
 </details>
 
-<details open>
+</details>
 <summary>Nasza historia</summary>
 
 Piszemy ją wspólnie: PERI-CRIT oficjalnie rozpoczyna działalność w 2021. roku!
@@ -47,21 +47,21 @@ ____
 
 # ENGLISH
 
-<details open>
+</details>
 <summary>Organisation</summary>
 
 The PERI-CRIT Polish Research Group (Polish Perioperative Medicine and Critical Care Research Group) is a consortium associating leading scientific units and medical entities conducting research in the field of perioperative medicine and intensive care.
 
 </details>
 
-<details open>
+</details>
 <summary>Goal</summary>
 
 Combining the research potential of the Partners and joint implementation of projects aimed at the development of science and improving the quality of care for patients undergoing surgery and/or treated in intensive care units.
 
 </details>
 
-<details open>
+</details>
 <summary>Activities</summary>
 
 - coordination of joint research projects using the experience and infrastructure of the Partners
@@ -72,14 +72,14 @@ Combining the research potential of the Partners and joint implementation of pro
 
 </details>
 
-<details open>
+</details>
 <summary>Values</summary>
 
 Activities of the Consortium commit a broad spectrum of people involved in perioperative and intensive care. Highly qualified research and teaching PERI-CRIT associates follow the principles of professionalism and mutual respect. Results of innovative projects carried out within the Consortium have a chance to change perioperative medicine and intensive care in Poland for the better.
 
 </details>
 
-<details open>
+</details>
 <summary>Our hisotry</summary>
 
 We are writing it together: PERI-CRIT officially launches in 2021!
