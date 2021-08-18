@@ -73,7 +73,7 @@ Combining the research potential of the Partners and joint implementation of pro
 </details>
 
 <details open>
-<summary>Idea</summary>
+<summary>Values</summary>
 
 Activities of the Consortium commit a broad spectrum of people involved in perioperative and intensive care. Highly qualified research and teaching PERI-CRIT associates follow the principles of professionalism and mutual respect. Results of innovative projects carried out within the Consortium have a chance to change perioperative medicine and intensive care in Poland for the better.
 
