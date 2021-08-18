@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" src="https://github.com/jakfro/intensywna.pl/blob/2c7df938368b8862e374bbb71de8864702399657/image.png">
+  <img width="300" src="https://github.com/jakfro/intensywna.pl/blob/c686de5fb9ea29702f1b7c2721df1e4a5382f3dc/image.png">
 </p>
      
 # POLISH
