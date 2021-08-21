@@ -1,8 +1,6 @@
 <details>
 
-# PERI-CRIT
-
-<summary>Organizacja</summary>
+<summary>PERI-CRIT</summary>
 
 Polska Grupa Badawcza PERI-CRIT (Polish Perioperative Medicine and Critical Care Research Group) to konsorcjum zrzeszające wiodące jednostki naukowe i podmioty lecznicze prowadzące badania naukowe w zakresie medycyny okołozabiegowej oraz intensywnej terapii.
 
