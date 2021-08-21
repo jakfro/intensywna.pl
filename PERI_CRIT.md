@@ -1,9 +1,5 @@
-<p align="center">
-  <img width="300" src="https://github.com/jakfro/intensywna.pl/blob/c686de5fb9ea29702f1b7c2721df1e4a5382f3dc/image.png">
-</p>
-     
-
 <details>
+
 #POLISH
 <summary>Organizacja</summary>
 
@@ -57,4 +53,8 @@ Activities of the Consortium commit a broad spectrum of people involved in perio
 
 We are writing it together: PERI-CRIT officially launches in 2021!
 
+<p align="center">
+  <img width="300" src="https://github.com/jakfro/intensywna.pl/blob/c686de5fb9ea29702f1b7c2721df1e4a5382f3dc/image.png">
+</p>
+  
 </details>
